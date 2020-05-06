@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "kr-KR"
-title                    : "Your Name / Site Title"
+title                    : "Chan Lim"
 title_separator          : "-"
 name                     : "Chan Lim" &name "Your Name"
 description              : "Engineer"&description "personal description"
