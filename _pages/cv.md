@@ -16,8 +16,8 @@ Education
 
 Work experience
 ======
-* 2020.04 ~ : Myoung Shin Co.,LTD. (Gunsan Plant) 
- .* Electric Vechicle Manufacturing Division(BEV)
+* 2020.04 ~ : Myoung Shin Co.,LTD. (Gunsan Plant)
+  * Electric Vechicle Manufacturing Division(BEV)
   * Duties included: Assembly Line Set-Up, Trouble-Shooting, 4M-Based Project Management
 
   
